@@ -1,0 +1,13 @@
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Lucida Grande";
+}
+
+.content-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}

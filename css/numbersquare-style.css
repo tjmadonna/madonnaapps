@@ -1,0 +1,48 @@
+h1 {
+    font-family: Impact;
+    color: #000;
+}
+
+h2 {
+    font-family: Impact;
+    color: #000;
+}
+
+p {
+    font-family: Impact;
+    color: #000;
+}
+
+#navbar {
+    background-color: #20e1cd;
+}
+
+.content-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+
+#about img {
+    width: 100%;
+    padding: 0px;
+}
+
+#privacy h1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Lucida Grande";
+    color: #000;
+}
+
+#privacy h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Lucida Grande";
+    color: #000;
+}
+
+#privacy p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Lucida Grande";
+    color: #000;
+}
